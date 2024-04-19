@@ -1,5 +1,10 @@
 ### Hi there 👋
 
+I`m Anas Yakubu a software engineer who enjoys seamlessly bridging the gap between people and digital space by day, and a anime lover. My passion for software engineering emerged as the world turned digital and I know find myself creating solutions to the everyday problems that frame our human experience.
+
+
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anasyakubu)](https://github.com/anuraghazra/github-readme-stats)
+
 <!--
 **anasyakubu/anasyakubu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
