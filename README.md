@@ -5,8 +5,8 @@ A software engineer who enjoys seamlessly bridging the gap between people and di
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://twitter.com/___anaaasss" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="___anaaasss" height="30" width="40" /></a><br />
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/anas-yakubu-02a20725a/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/anas-yakubu-02a20725a/" height="30" width="40" /></a><br />
+<a href="https://twitter.com/___anaaasss" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="___anaaasss" height="30" width="40" /></a><br /><br />
+<a href="https://linkedin.com/in/https://www.linkedin.com/in/anas-yakubu-02a20725a/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/anas-yakubu-02a20725a/" height="30" width="40" /></a><br /><br />
 <a href="https://instagram.com/anass.developer" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="anass.developer" height="30" width="40" /></a>
 </p>
 
