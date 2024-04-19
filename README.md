@@ -20,8 +20,10 @@ A software engineer who enjoys seamlessly bridging the gap between people and di
 </p>
 
 
-
+<!--
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anasyakubu)](https://github.com/anuraghazra/github-readme-stats)
+
+-->
 
 <!--
 **anasyakubu/anasyakubu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
