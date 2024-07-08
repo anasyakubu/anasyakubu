@@ -3,7 +3,7 @@
 
 A software engineer who enjoys seamlessly bridging the gap between people and digital space by day, and a anime lover. My passion for software engineering emerged as the world turned digital and I know find myself creating solutions to the everyday problems that frame our human experience.
 -->
-👋 <h6>Hi, I'm Anas Yakubu</h6>
+ <h6 style="font-size: 15px">👋 Hi, I'm Anas Yakubu</h6>
 
 <!--
 - 🌱 I’m currently learning 
