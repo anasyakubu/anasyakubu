@@ -5,6 +5,8 @@ A software engineer who enjoys seamlessly bridging the gap between people and di
 -->
  <h6 style="font-size: 15px">👋 Hi, I'm Anas Yakubu</h6>
 
+ [anas.dev](https://anasyakubu.vercel.app)
+
 <!--
 - 🌱 I’m currently learning 
 -->
