@@ -7,41 +7,30 @@ A software engineer who enjoys seamlessly bridging the gap between people and di
 
 Portfolio : [https://anas.dev](https://anasyakubu.vercel.app)
 
-<!--
-- 🌱 I’m currently learning 
--->
-<!--
-- 👯 I’m looking to collaborate on everything
-- 💬 Ask me about Animes
-- 📫 How to reach me: <a href="malto:yakubuanas04@gmail.com">yakubuanas04@gmail.com</a>
-- 😄 Pronouns: He/Him
-- ⚡ Fun fact: ...
+```typescript
+import anas from 'github';
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://twitter.com/___anaaasss" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="___anaaasss" height="30" width="40" /></a><br /><br />
-<a href="https://linkedin.com/inanas-yakubu-02a20725a" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/anas-yakubu-02a20725a/" height="30" width="40" /></a><br /><br />
-<a href="https://instagram.com/anass.developer" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="anass.developer" height="30" width="40" /></a>
-</p>
--->
+const anasProfile = {
+    name: "Anas Yakubu",
+    role: "Software Engineer 👨‍💻",
+    comany: "NYM Technologies Limited",
+    skills: [
+         "JavaScript", "TypeScript", "PHP", "Nodejs", "React", "Next.js", "Python",
+        "Tailwind CSS", "scss", "React Native", "RESTful APIs", "Responsive Design",
+        "Cross-Platform Development"
+    ],
+    currentProject: "Invoice Generator Application",
+    interests: ["Anime", "Building Web Applications", "Problem Solving"]
+};
+
+console.log(`Hello, I'm ${anasProfile.name}! I work as a ${anasProfile.role} in ${anasProfile.company}.`);
+
+anas.on('project', (project) => {
+    console.log(`Currently working on: ${project}`);
+});
+
+anas.emit('project', anasProfile.currentProject);
 
 
-<!--
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anasyakubu)](https://github.com/anuraghazra/github-readme-stats)
 
--->
 
-<!--
-**anasyakubu/anasyakubu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
