@@ -17,17 +17,11 @@ const anasProfile = {
         "Tailwind CSS", "scss", "React Native", "RESTful APIs", "Responsive Design",
         "Cross-Platform Development"
     ],
-    currentProject: "Invoice Generator Application",
     interests: ["Anime", "Building Web Applications", "Problem Solving"]
 };
 
 console.log(`Hello, I'm ${anasProfile.name}! I work as a ${anasProfile.role} in ${anasProfile.company}.`);
 
-anas.on('project', (project) => {
-    console.log(`Currently working on: ${project}`);
-});
-
-anas.emit('project', anasProfile.currentProject);
 ```
 
 Portfolio : [https://anas.dev](https://anasyakubu.vercel.app)
