@@ -1,8 +1,3 @@
-<!--
-<h1 align="center">Hi 👋, I'm Anas Yakubu</h1>
-
-A software engineer who enjoys seamlessly bridging the gap between people and digital space by day, and a anime lover. My passion for software engineering emerged as the world turned digital and I know find myself creating solutions to the everyday problems that frame our human experience.
--->
  <h6 style="font-size: 15px">👋 Hi, I'm Anas Yakubu</h6>
  
 ```typescript
@@ -14,8 +9,7 @@ const anasProfile = {
     comany: "NYM Technologies Limited",
     skills: [
          "JavaScript", "TypeScript", "PHP", "Nodejs", "React", "Next.js", "Python",
-        "Tailwind CSS", "scss", "React Native", "RESTful APIs", "Responsive Design",
-        "Cross-Platform Development"
+         "aws", "DevOps", "Cloud", "React Native", "RESTful APIs",
     ],
     interests: ["Anime", "Building Web Applications", "Problem Solving"]
 };
